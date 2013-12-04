@@ -30,6 +30,11 @@ Code:
 ../viewFusion.pl -i FusionHunter.result
 ```
 
+Support for more tools
+----------------------
+Chimerascan
+
+
 Result:
 
 ![example plot](https://github.com/riverlee/viewFusion/raw/master/Example/circos-fusion.png)
