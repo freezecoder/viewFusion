@@ -5,6 +5,7 @@ This is my fork of something. View fusion event by [circos](http://circos.ca/) p
 different fusion dicovery softwares in future. Currently it has only implemented parsing results 
 coming from [FusionHunter](http://bioen-compbio.bioen.illinois.edu/FusionHunter/) program.
 
+Some new data
 Usage
 ----------------
 ```
